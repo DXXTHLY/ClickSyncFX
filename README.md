@@ -1,7 +1,7 @@
 # ClickSync FX 🖱️🔊
 **The Ultimate Audio Engine for Your Mouse.**
 
-**ClickSync FX** is a lightweight, high-performance application that transforms your mouse clicks into a dynamic audio experience. Unlike basic sound scripts, ClickSync FX uses a real-time audio synthesis engine (NumPy) to allow for independent pitch shifting of your Left and Right mouse buttons.
+**ClickSync FX** is a lightweight, high-performance application that transforms your mouse clicks into a dynamic audio experience. Unlike basic sound scripts, ClickSync FX uses a real time audio synthesis engine (NumPy) to allow for independent pitch shifting of your Left and Right mouse buttons.
 
 Whether you want the satisfying click of a mechanical keyboard, a custom gun sound, or a UI sound effect, ClickSync FX handles it with zero latency.
 
