@@ -19,6 +19,9 @@ Whether you want the satisfying click of a mechanical keyboard, a custom gun sou
 
 ###  How To Use
 
+https://github.com/user-attachments/assets/450d4dad-2cd4-4486-8912-9d324d2b01d0
+
+
 1.  **Launch:** Open `ClickSyncFX.exe`. (No installation required).
 2.  **Load:** Click the **LOAD AUDIO** button and select your desired sound file (Short sounds like clicks, pops, or gunshots work best).
 3.  **Tweak:**
